@@ -2,4 +2,6 @@
 
 Olá! seja bem vindo ao estudo de microfones.
 
-- MICROFONE CONDENSADOR.
+- _MICROFONE CONDENSADOR._
+- _MICROFONE DINAMICO._
+
